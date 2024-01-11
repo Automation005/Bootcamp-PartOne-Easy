@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-11T17:33:59Z" name="Suite" finished-at="2024-01-11T17:34:25Z" duration-ms="26544">
+    <groups>
+    </groups>
+    <test started-at="2024-01-11T17:33:59Z" name="Test" finished-at="2024-01-11T17:34:25Z" duration-ms="26544">
+      <class name="com.SelenumFrameWorkEasyPart.NavigateToWebsiteAndVerifyTheTitleOfThePage">
+        <test-method is-config="true" signature="navigateToWebSite()[pri:0, instance:com.SelenumFrameWorkEasyPart.NavigateToWebsiteAndVerifyTheTitleOfThePage@29176cc1]" started-at="2024-01-11T09:33:59Z" name="navigateToWebSite" finished-at="2024-01-11T09:34:08Z" duration-ms="9392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToWebSite -->
+        <test-method signature="titleOfThePage()[pri:0, instance:com.SelenumFrameWorkEasyPart.NavigateToWebsiteAndVerifyTheTitleOfThePage@29176cc1]" started-at="2024-01-11T09:34:08Z" name="titleOfThePage" finished-at="2024-01-11T09:34:08Z" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleOfThePage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SelenumFrameWorkEasyPart.NavigateToWebsiteAndVerifyTheTitleOfThePage@29176cc1]" started-at="2024-01-11T09:34:08Z" name="tearDown" finished-at="2024-01-11T09:34:08Z" duration-ms="330" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SelenumFrameWorkEasyPart.NavigateToWebsiteAndVerifyTheTitleOfThePage -->
+      <class name="com.SelenumFrameWorkEasyPart.NavigateToWebsite">
+        <test-method is-config="true" signature="costcoVerifyTile()[pri:0, instance:com.SelenumFrameWorkEasyPart.NavigateToWebsite@2f177a4b]" started-at="2024-01-11T09:34:08Z" name="costcoVerifyTile" finished-at="2024-01-11T09:34:16Z" duration-ms="7147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- costcoVerifyTile -->
+        <test-method signature="clickLinkAndVerifyElement()[pri:0, instance:com.SelenumFrameWorkEasyPart.NavigateToWebsite@2f177a4b]" started-at="2024-01-11T09:34:16Z" name="clickLinkAndVerifyElement" finished-at="2024-01-11T09:34:21Z" duration-ms="4972" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLinkAndVerifyElement -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SelenumFrameWorkEasyPart.NavigateToWebsite@2f177a4b]" started-at="2024-01-11T09:34:21Z" name="tearDown" finished-at="2024-01-11T09:34:21Z" duration-ms="359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SelenumFrameWorkEasyPart.NavigateToWebsite -->
+      <class name="com.SelenumFrameWorkEasyPart.FillOutLoginForm">
+        <test-method is-config="true" signature="SwayLabLogin()[pri:0, instance:com.SelenumFrameWorkEasyPart.FillOutLoginForm@4278a03f]" started-at="2024-01-11T09:34:21Z" name="SwayLabLogin" finished-at="2024-01-11T09:34:24Z" duration-ms="2986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SwayLabLogin -->
+        <test-method signature="LoginWithValidCredinrtials()[pri:0, instance:com.SelenumFrameWorkEasyPart.FillOutLoginForm@4278a03f]" started-at="2024-01-11T09:34:24Z" name="LoginWithValidCredinrtials" finished-at="2024-01-11T09:34:25Z" duration-ms="717" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWithValidCredinrtials -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.SelenumFrameWorkEasyPart.FillOutLoginForm@4278a03f]" started-at="2024-01-11T09:34:25Z" name="tearDown" finished-at="2024-01-11T09:34:25Z" duration-ms="510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.SelenumFrameWorkEasyPart.FillOutLoginForm -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
